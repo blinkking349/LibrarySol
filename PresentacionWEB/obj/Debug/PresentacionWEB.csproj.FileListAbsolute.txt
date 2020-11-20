@@ -1,0 +1,472 @@
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll.config
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe.config
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.rsp
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.exe
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.rsp
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\System.AppContext.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Collections.Immutable.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe.config
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.rsp
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe.config
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.bootstrap.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.jQuery.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Entidades.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Logica.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.WebForms.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Microsoft.Web.Infrastructure.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\WebGrease.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Datos.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Entidades.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Logica.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.xml
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.xml
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\Datos.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\es\System.Web.Optimization.resources.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CopyComplete
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll.config
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe.config
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.rsp
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.exe
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.rsp
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\System.AppContext.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Collections.Immutable.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe.config
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.rsp
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe.config
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.bootstrap.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.jQuery.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Entidades.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Logica.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.WebForms.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Microsoft.Web.Infrastructure.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\WebGrease.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Datos.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Entidades.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Logica.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.xml
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.xml
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\Datos.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\es\System.Web.Optimization.resources.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CopyComplete
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll.config
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe.config
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.rsp
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.exe
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.rsp
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\System.AppContext.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Collections.Immutable.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe.config
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.rsp
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe.config
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.bootstrap.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.jQuery.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Entidades.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Logica.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.WebForms.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Microsoft.Web.Infrastructure.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\WebGrease.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Datos.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Entidades.pdb
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Logica.pdb
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.xml
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.xml
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.pdb
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\Datos.pdb
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\es\System.Web.Optimization.resources.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CopyComplete
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase7\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll.config
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe.config
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.rsp
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.exe
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.rsp
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\System.AppContext.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Collections.Immutable.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe.config
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.rsp
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe.config
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.bootstrap.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.jQuery.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Entidades.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Logica.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.WebForms.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Microsoft.Web.Infrastructure.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\WebGrease.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Datos.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Entidades.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Logica.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.xml
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.xml
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\Datos.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\es\System.Web.Optimization.resources.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CopyComplete
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\PresentacionWEB.dll.config
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\csc.exe
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\csc.exe.config
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\csc.rsp
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\csi.exe
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\csi.rsp
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\System.AppContext.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\System.Collections.Immutable.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\System.IO.FileSystem.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\vbc.exe
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\vbc.exe.config
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\vbc.rsp
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\VBCSCompiler.exe
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\roslyn\VBCSCompiler.exe.config
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Antlr3.Runtime.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\AspNet.ScriptManager.bootstrap.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\AspNet.ScriptManager.jQuery.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Entidades.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Logica.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Microsoft.ScriptManager.WebForms.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Microsoft.Web.Infrastructure.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Newtonsoft.Json.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\System.Web.Optimization.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\WebGrease.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Datos.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Entidades.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Logica.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\System.Web.Optimization.xml
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Newtonsoft.Json.xml
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Antlr3.Runtime.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\Datos.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\es\System.Web.Optimization.resources.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\obj\Debug\PresentacionWEB.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CopyComplete
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\obj\Debug\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\PresentacionWEB\obj\Debug\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll.config
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe.config
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.rsp
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.exe
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.rsp
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\System.AppContext.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Collections.Immutable.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe.config
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.rsp
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe.config
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.bootstrap.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.jQuery.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Entidades.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Logica.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.WebForms.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Microsoft.Web.Infrastructure.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\WebGrease.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Datos.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Entidades.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Logica.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.xml
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.xml
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\Datos.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\es\System.Web.Optimization.resources.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CopyComplete
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll.config
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe.config
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.rsp
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.exe
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.rsp
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\System.AppContext.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Collections.Immutable.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe.config
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.rsp
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe.config
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.bootstrap.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.jQuery.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Entidades.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Logica.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.WebForms.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Microsoft.Web.Infrastructure.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\WebGrease.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Datos.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Entidades.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Logica.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.xml
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.xml
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\Datos.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\es\System.Web.Optimization.resources.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CopyComplete
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll.config
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\PresentacionWEB.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.exe.config
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\csc.rsp
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.exe
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\csi.rsp
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\System.AppContext.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.exe.config
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\vbc.rsp
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Entidades.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Logica.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\WebGrease.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Datos.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Entidades.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Logica.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\System.Web.Optimization.xml
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Newtonsoft.Json.xml
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Antlr3.Runtime.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\Datos.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csprojAssemblyReference.cache
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.csproj.CopyComplete
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\PresentacionWEB\obj\Debug\PresentacionWEB.pdb

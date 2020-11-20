@@ -1,0 +1,88 @@
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\bin\Debug\Logica.dll
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\bin\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\bin\Debug\Datos.dll
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\bin\Debug\Datos.pdb
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\obj\Debug\Logica.dll
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Logica\obj\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\bin\Debug\Logica.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\bin\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\bin\Debug\Datos.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\bin\Debug\Datos.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\obj\Debug\Logica.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Logica\obj\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\bin\Debug\Logica.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\bin\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\bin\Debug\Datos.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\bin\Debug\Datos.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\obj\Debug\Logica.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Logica\obj\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\bin\Debug\Logica.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\bin\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\bin\Debug\Datos.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\bin\Debug\Datos.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\obj\Debug\Logica.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Logica\obj\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\bin\Debug\Logica.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\bin\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\bin\Debug\Datos.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\bin\Debug\Datos.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\obj\Debug\Logica.dll
+F:\_2020\ProgNet\Clase9\SolBibliotecaInicio\Logica\obj\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\bin\Debug\Logica.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\bin\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\bin\Debug\Datos.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\bin\Debug\Datos.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\obj\Debug\Logica.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Logica\obj\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\bin\Debug\Logica.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\bin\Debug\Logica.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\bin\Debug\Datos.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\bin\Debug\Datos.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\obj\Debug\Logica.dll
+F:\_2020\ProgNet\Clase11\SolBiblioteca\Logica\obj\Debug\Logica.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\bin\Debug\Logica.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\bin\Debug\Logica.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\bin\Debug\Datos.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\bin\Debug\Entidades.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\bin\Debug\Datos.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\bin\Debug\Entidades.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\obj\Debug\Logica.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Logica\obj\Debug\Logica.pdb

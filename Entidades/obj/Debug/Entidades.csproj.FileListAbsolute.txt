@@ -1,0 +1,36 @@
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Entidades\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Entidades\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Entidades\obj\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase4\SolBiblioteca\Entidades\obj\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Entidades\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Entidades\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Entidades\obj\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase5\SolBiblioteca\Entidades\obj\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Entidades\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Entidades\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Entidades\obj\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase6A\SolBiblioteca\Entidades\obj\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Entidades\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Entidades\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Entidades\obj\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase8\SolBiblioteca\Entidades\obj\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Entidades\bin\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Entidades\bin\Debug\Entidades.pdb
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Entidades\obj\Debug\Entidades.dll
+F:\_2020\ProgNet\Clase10_16Abril\SolBiblioteca\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Entidades\bin\Debug\Entidades.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Entidades\obj\Debug\Entidades.dll
+C:\Users\Bernard\Desktop\carpetas desktop\EDUCACION IT\.net web apk\clase12\Clase12\SolBiblioteca\Entidades\obj\Debug\Entidades.pdb
